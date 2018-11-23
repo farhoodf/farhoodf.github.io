@@ -1,5 +1,5 @@
-# Farhood Farahnak
-## PhD Student, CLaC Lab, Concordia University
+<!-- # Farhood Farahnak -->
+<!-- ## PhD Student, CLaC Lab, Concordia University -->
 
 ### Slides
 
