@@ -4,4 +4,4 @@
 
 ### Slides
 
-[Convilutional Neural Networks](./Slides/CNN.pdf)
+[Convolutional Neural Network](./Slides/CNN.pdf)
