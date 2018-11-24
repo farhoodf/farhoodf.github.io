@@ -25,40 +25,40 @@ enable_coderay: false
 
 #################
 
-# owner:
-#   name: Shayan Eskandari
-#   avatar: shayan.jpg
-#   job: "Senior Blockchain Engineer / PhD Student"
-#   bio: "Full on Blockchain enthusiast, Security in essence. Based in Montreal, QC."
-#   email: me@shayan.es
-#   #disqus-shortname: renyuanzblog
-#   twitter: sbetamc #username
-#   facebook: #username
-#   google:
-#     plus: #username
-#     analytics: UA-120656156-1
-#     verify:
-#     ad-client:
-#     ad-slot:
-#     site-verification: "eXNCznk_xXFAGUB-CyrLeDiuWaP8H5VUUdPTBvVAozg"
-#   bing-verify:
-#   github: shayanb #username
-#   stackoverflow: 1402429/shayan  # from a "http://stackoverflow.com/users/123456/username" link
-#   linkedin: shayane #username
-#   xing: #username
-#   medium: sbetamc
-#   instagram: #username
-#   lastfm: #username
-#   tumblr: #username
-#   pinterest: #username
-#   foursquare: #username
-#   steam: #username
-#   dribbble: #username
-#   youtube: #username
-#   soundcloud: #username
-#   weibo: #username
-#   flickr: #username
-#   codepen: #username
-#   telegram: #username
-#   blog: http://blog.theshayan.com/
+owner:
+  name: Farhood FF
+  avatar: #username
+  job: "PhD Student"
+  bio: "CLaC Lab"
+  email: #username
+  #disqus-shortname: renyuanzblog
+  twitter: #username
+  facebook: #username
+  google:
+    plus: #username
+    analytics: 
+    verify:
+    ad-client:
+    ad-slot:
+    site-verification: 
+  bing-verify:
+  github: #username
+  stackoverflow: #username
+  linkedin: #username
+  xing: #username
+  medium: sbetamc
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  codepen: #username
+  telegram: #username
+  blog: #username
 # googlescholar: K9xYnSQAAAAJ
