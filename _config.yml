@@ -1,5 +1,11 @@
+#######
+title: Farhood Farahnak
+# email:
+description: Farhood Farahnak Website
+url: https://encs.concordia.ca/~f_farahn # the base hostname & protocol for your site
+# keywords: []
+
+#######
+
 theme: jekyll-theme-tactile
-webrick:
-  headers:
-    My-Header: My-Value
-    My-Other-Header: My-Other-Value
+
