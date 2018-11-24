@@ -11,9 +11,9 @@ theme: jekyll-theme-tactile
 
 # timezone:          America/New_York
 markdown:          kramdown
-# highlighter:       rouge
-# excerpt_separator: <!--more-->
-# permalink:         /articles/:year-:month/:title
+highlighter:       rouge
+excerpt_separator: <!--more-->
+permalink:         /articles/:year-:month/:title
 
 kramdown:
   auto_ids: true
