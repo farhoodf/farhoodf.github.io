@@ -1,6 +1,7 @@
-!# Farhood Farahnak
-
-!## PhD Student, CLaC Lab, Concordia University
+---
+layout: post
+title: Markdown Style Guide
+---
 
 ### Slides
 
