@@ -9,6 +9,13 @@ description: PhD student, CLaC Lab, Concordia University
 
 theme: jekyll-theme-tactile
 
+######
+titles_from_headings:
+  enabled:     true
+  strip_title: false
+  collections: false
+##########
+
 # timezone:          America/New_York
 markdown:          kramdown
 highlighter:       rouge
