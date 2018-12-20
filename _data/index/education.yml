@@ -1,0 +1,13 @@
+- name: PhD Concordia University
+  link: https://www.concordia.ca/
+  date: 2017 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  descr: Natural Language Processing <br> (expected graduation in 2021)
+
+- name: MASc Shahid Beheshti University
+  link: http://library.sbu.ac.ir/islandora/object/thesis%3A41139
+  date: 2014 - 2016
+  descr: Machine Learning
+
+- name: BA Shahid Beheshti University
+  link: http://en.sbu.ac.ir
+  date: 2006 - 2013

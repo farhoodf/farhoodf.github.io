@@ -1,3 +1,4 @@
-### Slides
-
-[Convolutional Neural Network](./Slides/CNN.pdf)
+---
+layout: home
+permalink: /
+---
