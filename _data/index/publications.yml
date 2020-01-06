@@ -5,7 +5,7 @@
 
 
 
-- name: Book Chapter: Natural Language Processing, An Overview
+- name: "Book Chapter: Natural Language Processing, An Overview"
   #image: pong.png
   # github: https://github.com/shayanb/cryptojacking-first-paper
   # paper: https://arxiv.org/abs/1803.02887
